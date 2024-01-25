@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
+  m_Name: Leader6
+  m_EditorClassIdentifier: 
+  _info: What is another required service task for the Leader Award?
+  _answers:
+  - _info: Research volunteer organizations near you
+    _isCorrect: 0
+  - _info: Volunteer at least 10 hours of service to a charity
+    _isCorrect: 0
+  - _info: Prepare a presentation promoting FBLA
+    _isCorrect: 1
+  _usedTimer: 0
+  _timer: 0
+  _answerType: 0
+  _addScore: 10
