@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Questions>
+    <Question>
+      <Info>Question 1</Info>
+      <Answers>
+        <Answer>
+          <Info>2</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>0</AddScore>
+    </Question>
+    <Question>
+      <Info>Question 2</Info>
+      <Answers>
+        <Answer>
+          <Info />
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info />
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>1</Timer>
+      <Type>Single</Type>
+      <AddScore>0</AddScore>
+    </Question>
+  </Questions>
+</Data>
